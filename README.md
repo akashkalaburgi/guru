@@ -1,2 +1,2 @@
 # guru
-hi man
+hi man gtp 120
